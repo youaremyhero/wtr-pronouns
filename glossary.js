@@ -1,7 +1,7 @@
 {
-  "wtr-lab.com/novel/your-novel-slug": {
+  "wtr-lab.com/en/novel/14370/top-road-survival-influencer-says-she-will-walk-to-the-end-of-the-highway": {
     "characters": {
-      "Lin Xue": { "gender": "female", "aliases": ["Xue'er"] }
+      "Qi Xu": { "gender": "female", "aliases": ["Asuna"] }
     }
   }
 }
