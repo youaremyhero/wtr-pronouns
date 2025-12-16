@@ -1,9 +1,11 @@
+// For the novel "Top Road Survival Influencer Says She Will Walk to the End of the Highway"
 {
   "wtr-lab.com/en/novel/14370/": {
     "carryParagraphs": 3,
     "characters": {
-      "Qi Xu": { "gender": "female", "aliases": ["Asuna"] }
-      "Magic Boy": { "gender": "male", "aliases": ["Retired Magical Boy"],["Magical Boy"] }
+      "Qi Xu": { "gender": "female", "aliases": ["Asuna"] },
+      "Magic Boy": { "gender": "male", "aliases": ["Retired Magical Boy", "Magical Boy"] }
     }
   }
 }
+
